@@ -1,0 +1,1 @@
+Simmular to the Model-View-Controller pattern the `/views` directory will hold Vue components that have a state or logic encorporated in them.

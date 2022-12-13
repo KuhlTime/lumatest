@@ -1,0 +1,1 @@
+Reusable Layout components that don't hold any logic and are used to more easly create complex layouts in any part of the application.

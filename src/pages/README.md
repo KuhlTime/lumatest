@@ -1,0 +1,1 @@
+The `/pages` directory holds Vue components that are served on different router endpoints.

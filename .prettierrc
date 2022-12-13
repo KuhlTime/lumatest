@@ -1,0 +1,13 @@
+{
+  "semi": false,
+  "trailingComma": "none",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "singleQuote": true,
+  "plugins": ["prettier-plugin-jsdoc", "@trivago/prettier-plugin-sort-imports"],
+  "htmlWhitespaceSensitivity": "ignore",
+  "singleAttributePerLine": true,
+  "importOrder": ["<THIRD_PARTY_MODULES>", "^@", "^[./]"],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}

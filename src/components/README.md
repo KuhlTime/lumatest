@@ -1,0 +1,1 @@
+Components hold no state and are to be fully reusable elements that can be manipulate or interacted with through component properties.

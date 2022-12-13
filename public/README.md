@@ -1,0 +1,1 @@
+The `/public` directory stores static content that can be accessed throughout the application by using the root URI `/some-file-inside-public`.

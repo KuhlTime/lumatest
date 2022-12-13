@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "plugin:vue/vue3-recommended",
+    "prettier",
+    "plugin:vue-scoped-css/vue3-recommended"
+  ],
+  "parser": "vue-eslint-parser",
+  "plugins": ["prettier"],
+  "parserOptions": {
+    "parser": "@typescript-eslint/parser",
+    "sourceType": "module"
+  },
+  "rules": {
+    // override/add rules settings here, such as:
+    "vue/no-unused-vars": "error",
+    "prettier/prettier": "error"
+  }
+}
